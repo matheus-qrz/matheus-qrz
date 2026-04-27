@@ -4,7 +4,7 @@
 ### Software Engineer · Frontend · SaaS Builder · Freelancer
 
 <p>
-  <a href="[https://linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/matheus-oliveira-a35618322/)">
+  <a href="https://www.linkedin.com/in/matheus-oliveira-a35618322/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mthsqrz97@gmail.com">
