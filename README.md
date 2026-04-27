@@ -24,8 +24,8 @@
 I'm a Software Engineer based in **João Pessoa, Brazil**, focused on building polished frontend experiences and scalable SaaS products. I've been shipping production code for years across startups and client projects — working with design systems, complex state management, and everything in between.
 
 Currently working full-time as a **Frontend Engineer** while also running my own software business, building products from scratch and taking on select freelance projects.
-
 My portfolio: https://portfolio-e26q.vercel.app/
+
 ---
 
 ## 🛠️ Tech Stack
