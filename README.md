@@ -59,7 +59,7 @@ Currently working full-time as a **Frontend Engineer** while also running my own
 
 ## 🚀 Projects
 
-### 🍽️ Servinn
+### 🍽️ Servin
 Restaurant & hospitality management SaaS. QR code ordering, kitchen management, thermal printer integration (ESC/POS), and hotel room management.
 > `Next.js` `Node.js` `MongoDB` `AWS S3` `AWS SES` `CloudFront`
 
