@@ -60,13 +60,14 @@ Currently working full-time as a **Frontend Engineer** while also running my own
 ## 🚀 Projects
 
 ### 🍽️ Servin
-Restaurant & hospitality management SaaS. QR code ordering, kitchen management, thermal printer integration (ESC/POS), and hotel room management.
+Hospitality management SaaS. QR code ordering, all registered hotel services management, thermal printer integration (ESC/POS).
 > `Next.js` `Node.js` `MongoDB` `AWS S3` `AWS SES` `CloudFront`
 
 ---
 
 ### 📊 Tableflow
-Table and order management SaaS with real-time tracking and subscription billing infrastructure.
+Food service management SaaS with real-time qr code table ordering, thermal printer integration (ESC/POS), takeaway, delivery, statistics and subscription billing infrastructure.
+https://tableflow.software/
 > `Next.js` `TypeScript` `Stripe` `AWS Amplify`
 
 ---
